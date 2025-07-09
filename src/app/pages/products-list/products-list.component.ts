@@ -24,7 +24,7 @@ export class ProductsListComponent {
       "title": "Samsung Galaxy S24",
       "image": "https://picsum.photos/300/300?random=2",
       "price": 799.99,
-      "stock": 23
+      "stock": 0
     },
     {
       "id": 3,
